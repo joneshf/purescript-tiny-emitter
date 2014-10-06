@@ -1,0 +1,10 @@
+{
+  "name": "purescript-tiny-emitter",
+  "version": "0.0.0",
+  "description": "PureScript wrapper around tiny-emitter",
+  "license": "MIT",
+  "dependencies": {
+    "purescript-events": "joneshf/purescript-events#~0.1.2",
+    "tiny-emitter": "~1.0.0"
+  }
+}
